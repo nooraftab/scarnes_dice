@@ -57,14 +57,14 @@
         android:text="Hold" />
 
     <Button
-        android:id="@+id/insert"
+        android:id="@+id/reset"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="-95dp"
         android:layout_marginBottom="89dp"
         android:layout_toEndOf="@+id/comScore"
-        android:text="Insert" />
+        android:text="Reset" />
 
     <TextView
         android:id="@+id/extra"
